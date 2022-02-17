@@ -21,7 +21,7 @@
 
 ---
 
-### Um pouco oque eu sei !!
+### Um pouco sobre mim!
 
 ```javascript
 const github = {
