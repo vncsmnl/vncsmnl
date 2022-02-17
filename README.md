@@ -17,7 +17,7 @@
 - 👨‍💻 Atualmente estou cursando Analises e Desenvolvimento de Sistemas!...
 - 👯 Estou naquela fase de descobrir tudo!...
 - 👨‍⚕️ Estou migrando da área da saúde (Biomedicina) para TI...
-- ⚡ Adora
+- ⚡ Fato curioso: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
 
 ---
 
@@ -38,7 +38,7 @@ const github = {
     },
     currentFocus: "Python",
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
+          The second byte replies, 'No, just feeling a bit off. 🤣'"
 };
 ```
 
