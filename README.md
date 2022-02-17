@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Olá pessoal, bem-vindo ao meu perfil ! 👋</h1>
+<h1 align="center">Olá pessoal, bem-vindo ao meu perfil ! 👋</h1>
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://a.imagem.app/A9yuV9.gif" alight-itens="center">
 </div>
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Padawan na Programação!! <img src="https://a.imagem.app/A9yIHk.gif" width="60">
+## Padawan na Programação!! <img src="https://a.imagem.app/A9yIHk.gif" width="70">
 
 - 👨‍💻 Atualmente estou cursando Analises e Desenvolvimento de Sistemas!...
 - 👯 Estou naquela fase de descobrir tudo!...
@@ -42,7 +42,7 @@ const github = {
 };
 ```
 
-<div style="text-align: center;">
+<div align="center">
 <img src="https://a.imagem.app/A9yQxV.png" width="300" alight-itens="center">
 </div>
 
