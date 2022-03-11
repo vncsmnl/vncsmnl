@@ -1,7 +1,7 @@
 <h1 align="center">Olá pessoal, bem-vindo ao meu perfil ! 👋</h1>
 
 <div align="center">
-<img src="https://a.imagem.app/Arr1qt.gif" alight-itens="center">
+<img src="https://a.imagem.app/AruKxa.gif" alight-itens="center">
 </div>
 
 ---
