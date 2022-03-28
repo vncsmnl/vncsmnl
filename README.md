@@ -55,3 +55,11 @@ const github = {
 </div>
 
 ---
+
+<div align="center" style="display: inline_block"><br>
+<img src="/Certificates/python_5_star.png">
+<img src="/Certificates/sql_5_star.png">
+<img src="/Certificates/10_days_of_javascript_5_star.png">
+<img src="/Certificates/10_days_of_statistics_5_star.png">
+<img src="/Certificates/30_days_of_code_5_star.png">
+</div>
