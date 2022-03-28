@@ -56,6 +56,7 @@ const github = {
 
 ---
 
+## Badges
 <div align="center" style="display: inline_block"><br>
 <img src="/Certificates/python_5_star.png">
 <img src="/Certificates/sql_5_star.png">
