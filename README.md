@@ -1,7 +1,7 @@
 <h1 align="center">Olá pessoal, bem-vindo ao meu perfil ! 👋</h1>
 
 <div align="center">
-<img src="https://a.imagem.app/AruKxa.gif" alight-itens="center">
+<img src="Images/Dev/Developer-256px-14.gif" alight-itens="center">
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 ---
 
-## Padawan na Programação!! <img src="https://a.imagem.app/A9yIHk.gif" width="70">
+## Padawan na Programação!! <img src="Images/BabyYoda.gif" width="70">
 
 - 👨‍💻 Atualmente estou cursando Analises e Desenvolvimento de Sistemas!...
 - 👯 Estou naquela fase de descobrir tudo!...
@@ -51,16 +51,16 @@ const github = {
 </div>
 
 <div align="center">
-<img src="https://a.imagem.app/A9yQxV.png" width="300" alight-itens="center">
+<img src="Images/Link%20-%20Zelda.png" width="300" alight-itens="center">
 </div>
 
 ---
 
 ### Badges
 <div align="center" style="display: inline_block"><br>
-<img src="/Certificates/python_5_star.png">
-<img src="/Certificates/sql_5_star.png">
-<img src="/Certificates/10_days_of_javascript_5_star.png">
-<img src="/Certificates/10_days_of_statistics_5_star.png">
-<img src="/Certificates/30_days_of_code_5_star.png">
+<img src="Images/Certificates/python_5_star.png">
+<img src="Images/Certificates/sql_5_star.png">
+<img src="Images/Certificates/10_days_of_javascript_5_star.png">
+<img src="Images/Certificates/10_days_of_statistics_5_star.png">
+<img src="Images/Certificates/30_days_of_code_5_star.png">
 </div>
