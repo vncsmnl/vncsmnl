@@ -12,7 +12,7 @@
 
 ---
 
-## Padawan Developer!! <img src="assets/BabyYoda.gif" width="70">
+## Padawan Developer!! <img src="assets/BabyYoda.gif" width="60">
 
 - 👨‍💻 I'm currently studying Systems Analysis and Program Development!...
 - 🧠 I'm at that stage of discovering everything!...
@@ -63,16 +63,27 @@ const github = {
 </div>
 
 <div align="center">
-<img src="assets/Link%20-%20Zelda.png" width="300" alight-itens="center">
+<img src="assets/Link%20-%20Zelda.png" width="200" alight-itens="center">
 </div>
 
 ---
 
 ### Badges
 <div align="center" style="display: inline_block"><br>
+<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
 <img src="assets/Certificates/python_5_star.png">
+</a>
+<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
 <img src="assets/Certificates/sql_5_star.png">
+</a>
+<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
 <img src="assets/Certificates/10_days_of_javascript_5_star.png">
+</a>
+<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
 <img src="assets/Certificates/10_days_of_statistics_5_star.png">
-<img src="assets/Certificates/30_days_of_code_5_star.png">
+</a>
+<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
+<img src="assets/Certificates/30_days_of_code_5_star.png"> <br>
+</a>
+<img src="./assets/vncsmnl.gif" alt="Guia Extenso de Programação" width="500" height="281">
 </div>
