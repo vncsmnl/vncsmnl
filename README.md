@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellas <img src="assets/Hi.gif" width="50" />, What's up? </h1>
+<h1 align="center">Hello fellas <img src="assets/wave.gif" width="50" />, What's up? </h1>
 
 <div align="center">
 <img src="assets/Dev/Developer-256px-14.gif" alight-itens="center">
@@ -14,10 +14,10 @@
 
 ## Padawan Developer!! <img src="assets/BabyYoda.gif" width="60">
 
-- 👨‍💻 I'm currently studying Systems Analysis and Program Development!...
-- 🧠 I'm at that stage of discovering everything!...
-- 👨‍⚕️ I'm migrating from healthcare (Biomedical Science) to IT...
-- ⚡ Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
+- <img src="assets/guy-with-laptop-2.gif" width="20" /> I'm currently studying Systems Analysis and Program Development!...
+- <img src="assets/idea.gif" width="20" /> I'm at that stage of discovering everything!...
+- <img src="assets/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
+- <img src="assets/thunder.gif" width="20" /> Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
 
 ---
 
@@ -63,7 +63,7 @@ const github = {
 </div>
 
 <div align="center">
-<img src="assets/Link%20-%20Zelda.png" width="200" alight-itens="center">
+<img src="assets/Link.png" width="200" alight-itens="center">
 </div>
 
 ---
