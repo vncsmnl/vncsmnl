@@ -52,13 +52,13 @@ const github = {
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
   <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Python" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg>
+  <img align="center" alt="Ruby" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   </a>
 </div>
 
