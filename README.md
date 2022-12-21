@@ -1,15 +1,20 @@
 <h1 align="center">Hello fellas <img src="assets/Gifs/wave.gif" width="50" />, What's up? </h1>
 
 <div align="center">
-<img src="assets/Dev/Developer-256px-14.gif" alight-itens="center">
+<img src="assets/Dev/Developer-256px-20.gif" alight-itens="center">
 </div>
 
 ---
 
 ## My Social Medias!
 
-<a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://twitter.com/vncsmnl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://br.linkedin.com/in/vncsmnl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a> <a href="https://steamcommunity.com/id/vncsmnl"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> <a href="https://www.twitch.tv/vncsmnl"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-
+<a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/vncsmnl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://br.linkedin.com/in/vncsmnl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/vncsmnl"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
+<a href="https://www.twitch.tv/vncsmnl"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+<a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"></a>
 ---
 
 ## Padawan Developer!! <img src="assets/Gifs/BabyYoda.gif" width="60">
@@ -66,24 +71,6 @@ const github = {
 <img src="assets/Gifs/Link.png" width="200" alight-itens="center">
 </div>
 
----
-
-### Badges
-<div align="center" style="display: inline_block"><br>
-<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
-<img src="assets/Certificates/python_5_star.png">
-</a>
-<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
-<img src="assets/Certificates/sql_5_star.png">
-</a>
-<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
-<img src="assets/Certificates/10_days_of_javascript_5_star.png">
-</a>
-<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
-<img src="assets/Certificates/10_days_of_statistics_5_star.png">
-</a>
-<a href="https://www.hackerrank.com/vncsmnl" target="_blank" rel="noopener noreferrer">
-<img src="assets/Certificates/30_days_of_code_5_star.png"> <br>
-</a>
-<img src="./assets/Gifs/vncsmnl.gif" alt="Guia Extenso de Programação" width="500" height="281">
+<div align="right">
+<img src="./assets/Gifs/vncsmnl.gif" alt="signature" width="200">
 </div>
