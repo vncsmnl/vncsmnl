@@ -1,7 +1,7 @@
 <h1 align="center">Hello fellas <img src="assets/Gifs/wave.gif" width="50" />, What's up? </h1>
 
 <div align="center">
-<img src="assets/Dev/Developer-256px-14.gif" alight-itens="center">
+<img src="assets/Memoji/vncsmnl(11).webp" width="250" alight-itens="center">
 </div>
 
 ---
