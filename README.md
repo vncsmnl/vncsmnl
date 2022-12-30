@@ -1,7 +1,7 @@
-<h1 align="center">Hello fellas <img src="assets/Gifs/wave.gif" width="50" />, What's up? </h1>
+<h1 align="center">Hello fellas <img src="assets/images/wave.gif" width="50" />, What's up? </h1>
 
 <div align="center">
-<img src="assets/Memoji/vncsmnl(44).png" width="256" alight-itens="center">
+<img src="assets/images/Memoji.png" width="256" alight-itens="center">
 </div>
 
 ---
@@ -17,12 +17,12 @@
 <a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"></a>
 ---
 
-## Padawan Developer!! <img src="assets/Gifs/BabyYoda.gif" width="60">
+## Padawan Developer!! <img src="assets/images/BabyYoda.gif" width="60">
 
-- <img src="assets/Gifs/guy-with-laptop-2.gif" width="20" /> I'm currently studying Systems Analysis and Program Development!...
-- <img src="assets/Gifs/idea.gif" width="20" /> I'm at that stage of discovering everything!...
-- <img src="assets/Gifs/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
-- <img src="assets/Gifs/thunder.gif" width="20" /> Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
+- <img src="assets/images/guy-with-laptop-2.gif" width="20" /> I'm currently studying Systems Analysis and Program Development!...
+- <img src="assets/images/idea.gif" width="20" /> I'm at that stage of discovering everything!...
+- <img src="assets/images/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
+- <img src="assets/images/thunder.gif" width="20" /> Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
 
 ---
 
@@ -68,9 +68,9 @@ const github = {
 </div>
 
 <div align="center">
-<img src="assets/Gifs/Link.png" width="200" alight-itens="center">
+<img src="assets/images/Link.png" width="200" alight-itens="center">
 </div>
 
 <div align="right">
-<img src="./assets/Gifs/vncsmnl.gif" alt="signature" width="200">
+<img src="./assets/images/vncsmnl.gif" alt="signature" width="200">
 </div>
