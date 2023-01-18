@@ -4,18 +4,15 @@
 <img src="assets/images/Memoji.png" width="256" alight-itens="center">
 </div>
 
----
-
 ## My Social Medias!
 
-<a href="https://instagram.com/vncsmnl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/vncsmnl"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://br.linkedin.com/in/vncsmnl"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.reddit.com/user/vncsmnl"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/vncsmnl"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a> 
-<a href="https://www.twitch.tv/vncsmnl"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
-<a href="https://www.hackerrank.com/vncsmnl?hr_r=1"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
----
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/vncsmnl)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/vncsmnl)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://br.linkedin.com/in/vncsmnl)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge)](https://www.reddit.com/user/vncsmnl)
+[![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge)](https://steamcommunity.com/id/vncsmnl)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge)](https://www.twitch.tv/vncsmnl)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/vncsmnl?hr_r=1)
 
 ## Padawan Developer!! <img src="assets/images/BabyYoda.gif" width="60">
 
@@ -23,8 +20,6 @@
 - <img src="assets/images/idea.gif" width="20" /> I'm at that stage of discovering everything!...
 - <img src="assets/images/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
 - <img src="assets/images/thunder.gif" width="20" /> Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
-
----
 
 ### About me!
 
@@ -43,7 +38,7 @@ const github = {
     },
     currentFocus: "Python",
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off. 🤣'"
+          The second byte replies, 'No, just feeling a bit off.'"
 };
 ```
 <div align="center" style="display: inline_block"><br>
@@ -57,7 +52,7 @@ const github = {
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
   <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Ruby" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg>
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
