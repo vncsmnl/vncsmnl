@@ -66,4 +66,5 @@ const github = {
 <img src="assets/images/Link.png" width="200" alight-itens="center">
 </div>
 
-<div style="float: right"><img src="./assets/images/vncsmnl.gif" alt="signature" width="200"></div> <div style="float: left"><img src="./assets/images/rate_w.png" alt="signature" width="80"></div>
+<span style="float: right;"><img src="./assets/images/vncsmnl.gif" alt="signature" width="200"></span> 
+<span style="float: left;"><img src="./assets/images/rate_w.png" alt="like" width="80"></span>
