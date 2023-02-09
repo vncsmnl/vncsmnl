@@ -4,7 +4,7 @@
 <img src="assets/images/Memoji.png" width="256" alight-itens="center">
 </div>
 
-## My Social Medias!
+## My Social Medias! <img src="assets/images/phone.gif" width="50"> 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/vncsmnl)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/vncsmnl)
@@ -21,7 +21,7 @@
 - <img src="assets/images/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
 - <img src="assets/images/thunder.gif" width="20" /> Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
 
-### About me!
+### About me! <img src="assets/images/eyes.gif" width="40">
 
 ```javascript
 const github = {
@@ -66,6 +66,5 @@ const github = {
 <img src="assets/images/Link.png" width="200" alight-itens="center">
 </div>
 
-<div align="right">
-<img src="./assets/images/vncsmnl.gif" alt="signature" width="200">
-</div>
+<div style="float: right"><img src="./assets/images/vncsmnl.gif" alt="signature" width="200"></div>
+<div style="float: left"><img src="./assets/images/rate_w.png" alt="signature" width="80"></div>
