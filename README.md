@@ -1,7 +1,7 @@
 <h1 align="center">Hello fellas <img src="assets/images/wave.gif" width="50" />, What's up? </h1>
 
 <div align="center">
-<img src="assets/images/memoji.png" width="256" alight-itens="center">
+<img src="assets/images/Memoji.png" width="256" alight-itens="center">
 </div>
 
 ## My Social Medias! <img src="assets/images/phone.gif" width="50"> 
