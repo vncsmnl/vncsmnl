@@ -1,7 +1,7 @@
 <h1 align="center">Hello fellas <img src="assets/images/wave.gif" width="50" />, What's up? </h1>
 
 <div align="center">
-<img src="assets/images/Memoji.png" width="256" alight-itens="center">
+<img src="assets/images/memoji.png" width="256" alight-itens="center">
 </div>
 
 ## My Social Medias! <img src="assets/images/phone.gif" width="50"> 
@@ -19,7 +19,7 @@
 - <img src="assets/images/guy-with-laptop-2.gif" width="20" /> I'm currently studying Systems Analysis and Program Development!...
 - <img src="assets/images/idea.gif" width="20" /> I'm at that stage of discovering everything!...
 - <img src="assets/images/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
-- <img src="assets/images/thunder.gif" width="20" /> Curious fact: QWRvcm8gbWV4ZXIgbm8gY29tcHV0YWRvcg==
+- <img src="assets/images/thunder.gif" width="20" /> Curious fact: "Vm9jw6ogw6kgYmVtIGludGVsaWdlbnRlIGhlaW4h"
 
 ### About me! <img src="assets/images/eyes.gif" width="40">
 
@@ -34,7 +34,7 @@ const github = {
         },
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","discord.py"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "pandas", "SuiteApp","discord.py"]
     },
     currentFocus: "Python",
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
@@ -51,14 +51,23 @@ const github = {
   <a href="https://pt-br.reactjs.org" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </a>
-  <a href="https://www.ruby-lang.org/pt/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </a>
 </div>
 
