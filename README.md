@@ -4,16 +4,15 @@
 <img src="assets/images/Memoji.png" width="256" alight-itens="center">
 </div>
 
-## My Social Medias! <img src="assets/images/phone.gif" width="50"> 
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://instagram.com/vncsmnl)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=for-the-badge)](https://twitter.com/vncsmnl)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://br.linkedin.com/in/vncsmnl)
-[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=for-the-badge)](https://www.reddit.com/user/vncsmnl)
-[![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=for-the-badge)](https://steamcommunity.com/id/vncsmnl)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=for-the-badge)](https://www.twitch.tv/vncsmnl)
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=for-the-badge)](https://www.hackerrank.com/vncsmnl?hr_r=1)
-
+## My Social Medias!
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/vncsmnl)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/vncsmnl)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://br.linkedin.com/in/vncsmnl)
+[![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)](https://www.reddit.com/user/vncsmnl)
+[![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat)](https://steamcommunity.com/id/vncsmnl)
+[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat)](https://www.twitch.tv/vncsmnl)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://www.hackerrank.com/vncsmnl?hr_r=1)
+[![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat)](https://exercism.org/profiles/vncsmnl)
 ## Padawan Developer!! <img src="assets/images/BabyYoda.gif" width="60">
 
 - <img src="assets/images/guy-with-laptop-2.gif" width="20" /> I'm currently studying Systems Analysis and Program Development!...
