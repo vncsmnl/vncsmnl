@@ -24,12 +24,12 @@
 
 ```javascript
 const github = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python","HTML", "CSS","MySQL"],
+    pronouns: "handsome" | "overwhelming",
+    code: ["Javascript", "Typescript", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
-            js: ["Node"],
+            js: ["Node", "Deno"],
         },
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
