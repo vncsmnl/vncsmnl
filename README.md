@@ -4,10 +4,16 @@
 <img src="assets/images/Memoji.png" width="256" alight-itens="center">
 </div>
 
+<div align="center">
+<a href="https://vinicius.is-a.dev/">Website</a> | 
+<a href="https://vini.thedev.id/">Portfólio</a>
+</div>
+
 ## My Social Medias!
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/vncsmnl)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/vncsmnl)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://br.linkedin.com/in/vncsmnl)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@oAvassalador/videos)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)](https://www.reddit.com/user/vncsmnl)
 [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat)](https://steamcommunity.com/id/vncsmnl)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat)](https://www.twitch.tv/vncsmnl)
@@ -24,7 +30,7 @@
 
 ```javascript
 const github = {
-    pronouns: "handsome" | "overwhelming",
+    pronouns: ["dev", "handsome", "overwhelming"],
     code: ["Javascript", "Typescript", "Python","HTML", "CSS","MySQL"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
