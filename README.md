@@ -81,4 +81,4 @@ const github = {
 </div>
 
 <div><img align="right" src="./assets/images/vncsmnl.gif" alt="signature" width="200"></div> 
-<div><img align="left" src="./assets/images/rate_w.png" alt="like" width="80"></div>
+<div><img align="left" src="./assets/images/rate1_w.png" alt="like" width="80"></div>
