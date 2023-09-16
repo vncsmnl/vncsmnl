@@ -35,7 +35,7 @@ const github = {
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
-            js: ["Node", "Deno"],
+            js: ["Node", "Bun"],
             ruby: ["Rails"],
         },
         devOps: ["AWS", "Docker"],
@@ -49,22 +49,22 @@ const github = {
 ```
 <div align="center" style="display: inline_block"><br>
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
-  <a href="https://pt-br.reactjs.org" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <a href="https://www.ruby-lang.org" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <a href="https://www.apple.com/br/swift/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
@@ -72,8 +72,8 @@ const github = {
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="Neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   </a>
 </div>
 
