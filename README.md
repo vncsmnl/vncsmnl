@@ -31,7 +31,7 @@
 ``` javascript
 const github = {
     pronouns: ["aesthetic", "handsome", "overwhelming"],
-    code: ["Javascript", "Typescript", "Python","Ruby", "Swift"],
+    code: ["C, Javascript", "Typescript", "Python","Ruby", "Swift"],
     askMeAbout: ["WebDev", "Tech", "Gaming"],
     technologies: {
         backEnd: {
@@ -48,6 +48,9 @@ const github = {
 };
 ```
 <div align="center" style="display: inline_block"><br>
+  <a href="" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="C Language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
@@ -63,17 +66,11 @@ const github = {
   <a href="https://www.apple.com/br/swift/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  </a>
-  <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Neovim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   </a>
 </div>
 
