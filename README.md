@@ -1,4 +1,4 @@
-<h1 align="center">Hello fellas <img src="./assets/images/wave.gif" width="50" />, What's up? </h1>
+<h1 align="center">Hello fellas <img src="./assets/images/wave.gif" width="50"/>, What's up?</h1>
 
 <div align="center">
 <img src="./assets/images/Memoji.png" width="256" alight-itens="center">
@@ -19,12 +19,13 @@
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat)](https://www.twitch.tv/vncsmnl)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://www.hackerrank.com/vncsmnl?hr_r=1)
 [![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat)](https://exercism.org/profiles/vncsmnl)
+
 ## Padawan Developer!! <img src="./assets/images/BabyYoda.gif" width="60">
 
-- <img src="./assets/images/guy-with-laptop-2.gif" width="20" /> I'm currently studying Systems Analysis and Program Development!...
-- <img src="./assets/images/idea.gif" width="20" /> I'm at that stage of discovering everything!...
-- <img src="./assets/images/male-doctor.gif" width="20" /> I'm migrating from healthcare (Biomedical Science) to IT...
-- <img src="./assets/images/thunder.gif" width="20" /> Curious fact: "Vm9jw6ogw6kgYmVtIGludGVsaWdlbnRlIGhlaW4h"
+- <img src="./assets/images/degree.gif" width="20" /> I have a degree in Biomedicine and Systems Analysis and Development ...
+- <img src="./assets/images/poop.gif" width="20" /> I'm still stupid, I have a lot to learn... ✍️(◔◡◔)
+- <img src="./assets/images/idea.gif" width="20" /> I really like a lot of things, I'm always creating something new ...
+- <img src="./assets/images/thunder.gif" width="20" /> Curious fact: "Vm9jw6ogw6kgYmVtIGludGVsaWdlbnRlIGhlaW4h" (*/ω＼*)
 
 ### About me! <img src="assets/images/eyes.gif" width="40">
 
@@ -77,6 +78,12 @@ const github = {
 <div align="center">
 <img src="./assets/images/Link.png" width="200" alight-itens="center">
 </div>
+
+###
+
+![snake animation](https://github.com/vncsmnl/vncsmnl/blob/output/github-contribution-grid-snake2.svg)
+
+###
 
 <div><img align="right" src="./assets/images/vncsmnl.gif" alt="signature" width="200"></div> 
 <div><img align="left" src="./assets/images/rate1_w.png" alt="like" width="80"></div>
