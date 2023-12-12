@@ -79,11 +79,5 @@ const github = {
 <img src="./assets/images/Link.png" width="200" alight-itens="center">
 </div>
 
-###
-
-![snake animation](https://github.com/vncsmnl/vncsmnl/blob/output/github-contribution-grid-snake2.svg)
-
-###
-
 <div><img align="right" src="./assets/images/vncsmnl.gif" alt="signature" width="200"></div> 
 <div><img align="left" src="./assets/images/rate1_w.png" alt="like" width="80"></div>
