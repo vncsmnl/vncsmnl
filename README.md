@@ -48,32 +48,11 @@ const github = {
           The second byte replies, 'No, just feeling a bit off.'"
 };
 ```
-<div align="center" style="display: inline_block"><br>
-  <a href="" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="C Language" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,bun,nodejs,django,rails,swift,sqlite,docker" />
   </a>
-  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </a>
-  <a href="https://www.ruby-lang.org" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  </a>
-  <a href="https://www.apple.com/br/swift/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  </a>
-</div>
+</p>
 
 <div align="center">
 <img src="./assets/images/Link.png" width="200" alight-itens="center">
