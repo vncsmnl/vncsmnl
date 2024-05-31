@@ -32,16 +32,17 @@
 ``` javascript
 const github = {
     pronouns: ["aesthetic", "handsome", "overwhelming"],
-    code: ["C, Javascript", "Typescript", "Python","Ruby", "Swift"],
-    askMeAbout: ["WebDev", "Tech", "Gaming"],
+    code: ["C", "Javascript", "Python", "Ruby", "Swift"],
+    askMeAbout: ["WebDev", "Tech", "Gaming", "Hacking", "Piracy"],
     technologies: {
         backEnd: {
             js: ["Node", "Bun"],
             ruby: ["Rails"],
         },
+        os: ["Linux", "macOS", "Windows"]
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "pandas", "SuiteApp","discord.py"]
+        misc: ["Latex", "Firebase", "Socket.IO", "selenium", "beautifulsoup", "open-cv", "pandas", "bots"]
     },
     currentFocus: ["Python, Ruby"],
     fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
@@ -50,7 +51,7 @@ const github = {
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bun,nodejs,django,rails,swift,sqlite,docker" />
+    <img src="https://skillicons.dev/icons?i=c,bun,nodejs,django,rails,swift,sqlite,docker,kubernetes" />
   </a>
 </p>
 
