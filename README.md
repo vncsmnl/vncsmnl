@@ -39,7 +39,7 @@ const github = {
             js: ["Node", "Bun"],
             ruby: ["Rails"],
         },
-        os: ["Linux", "macOS", "Windows"]
+        os: ["Linux", "macOS", "Windows"],
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Latex", "Firebase", "Socket.IO", "selenium", "beautifulsoup", "open-cv", "pandas", "bots"]
