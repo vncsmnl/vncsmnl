@@ -30,10 +30,10 @@
 ### About me! <img src="assets/images/eyes.gif" width="40">
 
 ``` javascript
-const github = {
+const me= {
     pronouns: ["aesthetic", "handsome", "overwhelming"],
     code: ["C", "Javascript", "Python", "Ruby", "Swift"],
-    askMeAbout: ["WebDev", "Tech", "Gaming", "Hacking", "Piracy"],
+    askMeAbout: ["WebDev", "Tech", "Gaming", "Hacking", "Piracy", "AI", "Machine Learning", "Cybersecurity", "Cloud Computing"],
     technologies: {
         backEnd: {
             js: ["Node", "Bun"],
@@ -42,11 +42,15 @@ const github = {
         os: ["Linux", "macOS", "Windows"],
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Latex", "Firebase", "Socket.IO", "selenium", "beautifulsoup", "open-cv", "pandas", "bots"]
+        misc: ["Latex", "Firebase", "Socket.IO", "selenium", "beautifulsoup", "open-cv", "pandas", "bots", "GraphQL", "TensorFlow", "PyTorch", "Kubernetes"]
     },
-    currentFocus: ["Python, Ruby"],
-    fun: "Two bytes meet.  The first byte asks, 'Are you ill?'
-          The second byte replies, 'No, just feeling a bit off.'"
+    currentFocus: ["Python", "Ruby"],
+    hobbies: ["Soccer", "Video Games", "Gym", "Guitar", "Photograph"],
+    languages: ["English", "Portuguese"],
+    favoriteBooks: ["The Kingkiller Chronicle", "Sapiens: A Brief History of Humankind", "The Code Breaker", "A Briefer History of Time"],
+    favoriteShows: ["The Matrix", "Back to the Future", "Interstellar", "BoJack Horseman",  "Breaking Bad", "The Office"],
+    favoriteArtists: ["Bon Jovi", "Guns N' Roses", "Van Halen", "Pearl Jam"],
+    fun: "Why did the neural network go to the doctor? It had a case of vanishing gradients and needed some help backpropagating its health!"
 };
 ```
 <p align="center">
