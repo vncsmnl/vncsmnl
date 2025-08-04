@@ -11,14 +11,14 @@
 
 ## My Social Medias!
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=flat)](https://instagram.com/vncsmnl)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=fff&style=flat)](https://twitter.com/vncsmnl)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)](https://br.linkedin.com/in/vncsmnl)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=fff&style=flat)](https://twitter.com/vncsmnl)
+[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white&style=flat)](https://www.threads.com/@vncsmnl)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=flat)](https://br.linkedin.com/in/vncsmnl)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-F00?logo=youtube&logoColor=fff&style=flat)](https://www.youtube.com/@oavassalador/)
 [![Reddit Badge](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=fff&style=flat)](https://www.reddit.com/user/vncsmnl)
 [![Steam Badge](https://img.shields.io/badge/Steam-000?logo=steam&logoColor=fff&style=flat)](https://steamcommunity.com/id/vncsmnl)
-[![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=fff&style=flat)](https://www.twitch.tv/vncsmnl)
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=000&style=flat)](https://www.hackerrank.com/vncsmnl?hr_r=1)
-[![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=flat)](https://exercism.org/profiles/vncsmnl)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06&style=flat)](https://leetcode.com/u/vncsmnl/)
 
 ## Padawan Developer!! <img src="./assets/images/BabyYoda.gif" width="60">
 
@@ -31,31 +31,32 @@
 
 ``` javascript
 const me= {
-    pronouns: ["aesthetic", "handsome", "overwhelming"],
-    code: ["C", "Javascript", "Python", "Ruby", "Swift"],
+    pronouns: ["Aesthetic", "Handsome", "Overwhelming"],
+    code: ["C++", "Python", "Javascript"],
     askMeAbout: ["WebDev", "Tech", "Gaming", "Hacking", "Piracy", "AI", "Machine Learning", "Cybersecurity", "Cloud Computing"],
     technologies: {
         backEnd: {
-            js: ["Node", "Bun"],
-            ruby: ["Rails"],
+            js: ["NodeJS"],
+            python: ["Django", "Flask", "FastAPI"],
         },
         os: ["Linux", "macOS", "Windows"],
         devOps: ["AWS", "Docker"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Latex", "Firebase", "Socket.IO", "selenium", "beautifulsoup", "open-cv", "pandas", "bots", "GraphQL", "TensorFlow", "PyTorch", "Kubernetes"]
+        misc: ["Latex", "Firebase", "Socket.IO", "selenium", "sklearn", "beautifulsoup", "open-cv", "pandas", "bots", "GraphQL", "TensorFlow", "PyTorch", "Kubernetes"]
     },
-    currentFocus: ["Python", "Ruby"],
+    currentFocus: ["Python", "Javascript"],
+    altSider: ["C++", "Rust", "Go", "Swift"],
     hobbies: ["Soccer", "Video Games", "Gym", "Guitar", "Photograph"],
     languages: ["English", "Portuguese"],
-    favoriteBooks: ["The Kingkiller Chronicle", "Sapiens: A Brief History of Humankind", "The Code Breaker", "A Briefer History of Time"],
-    favoriteShows: ["The Matrix", "Back to the Future", "Interstellar", "BoJack Horseman",  "Breaking Bad", "The Office"],
+    favoriteBooks: ["As a Man Thinketh", "Sapiens: A Brief History of Humankind", "The Code Breaker", "A Briefer History of Time"],
+    favoriteShows: ["Spider-Man (2002)", "Grave of the Fireflies", "Interstellar", "BoJack Horseman",  "Breaking Bad", "The Office"],
     favoriteArtists: ["Bon Jovi", "Guns N' Roses", "Van Halen", "Pearl Jam"],
     fun: "Why did the neural network go to the doctor? It had a case of vanishing gradients and needed some help backpropagating its health!"
 };
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,bun,nodejs,django,rails,swift,sqlite,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,sqlite,docker,kubernetes" />
   </a>
 </p>
 
