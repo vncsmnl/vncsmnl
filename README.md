@@ -22,7 +22,7 @@
 
 ## Padawan Developer!! <img src="./assets/images/BabyYoda.gif" width="60">
 
-- <img src="./assets/images/degree.gif" width="20" /> I'm studying a Master's degree at PPGI at the University of Brasilia ...
+- <img src="./assets/images/degree.gif" width="20" /> PhD student in Computer Science, specializing in Biotechnology
 - <img src="./assets/images/poop.gif" width="20" /> I'm still stupid, I have a lot to learn... ✍️(◔◡◔)
 - <img src="./assets/images/idea.gif" width="20" /> I really like a lot of things, I'm always creating something new ...
 - <img src="./assets/images/thunder.gif" width="20" /> Curious fact: "Vm9jw6ogw6kgYmVtIGludGVsaWdlbnRlIGhlaW4h" (*/ω＼*)
@@ -30,22 +30,24 @@
 ### About me! <img src="assets/images/eyes.gif" width="40">
 
 ``` javascript
-const me= {
+const me = {
     pronouns: ["Aesthetic", "Handsome", "Overwhelming"],
-    code: ["C++", "Python", "Javascript"],
-    askMeAbout: ["WebDev", "Tech", "Gaming", "Hacking", "Piracy", "AI", "Machine Learning", "Cybersecurity", "Cloud Computing"],
+    code: ["Python", "C++"],
+    askMeAbout: ["WebDev", "Tech", "Gaming", "Hacking", "Piracy", "Artificial Intelligence", "Machine Learning", "Deep Learning", "LLMs", "Cybersecurity", "Cloud Computing"],
     technologies: {
+        ai_ml: {
+            frameworks: ["TensorFlow", "PyTorch", "scikit-learn", "Keras", "XGBoost"],
+        llm_tools: ["LangChain", "CrewAI", "OpenAI API", "Hugging Face"],
         backEnd: {
-            js: ["NodeJS"],
-            python: ["Django", "Flask", "FastAPI"],
+            python: ["Flask", "FastAPI"],
         },
         os: ["Linux", "macOS", "Windows"],
         devOps: ["AWS", "Docker"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Latex", "Firebase", "Socket.IO", "selenium", "sklearn", "beautifulsoup", "open-cv", "pandas", "bots", "GraphQL", "TensorFlow", "PyTorch", "Kubernetes"]
+        databases: ["FAISS", "ChromaDB", "SQLite", "SupaBase"],
+        misc: ["Latex", "Firebase", "MLflow", "NodeJS", "Bun", "Socket.IO", "Selenium", "BeautifulSoup", "open-cv", "pandas", "matplotlib", "numpy", "Bots", "GraphQL",  "Kubernetes",  "CI/CD"]
     },
-    currentFocus: ["Python", "Javascript"],
-    altSider: ["C++", "Rust", "Go", "Swift"],
+    currentFocus: ["Python for AI"],
+    altSider: ["JavaScript", "Rust", "Go", "Ruby"],
     hobbies: ["Soccer", "Video Games", "Gym", "Guitar", "Photograph"],
     languages: ["English", "Portuguese"],
     favoriteBooks: ["As a Man Thinketh", "Sapiens: A Brief History of Humankind", "The Code Breaker", "A Briefer History of Time"],
@@ -56,7 +58,7 @@ const me= {
 ```
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,nodejs,sqlite,docker,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,sklearn,tensorflow,pytorch,cpp,sqlite,docker,kubernetes" />
   </a>
 </p>
 
